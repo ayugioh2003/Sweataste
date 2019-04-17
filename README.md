@@ -6,6 +6,8 @@
 
 ## Demo
 
+https://ayugioh2003.github.io/Sweataste
+
 ## 設計稿
 來源：[The F2E - 前端修練精神時光屋](https://www.facebook.com/groups/173311386703334/permalink/247893602578445/)
 
